@@ -14,8 +14,19 @@ The Weather App is a simple and intuitive application that allows users to get r
 - HTML:for creating Web pages.
 - css:for desining web pages.
 
-
 ## Installation
+To install and run the Weather App locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/weather-app.git
+
+
+## Usage
+1.Search for a City: Enter the name of the city in the search bar and press Enter. The app will display the current weather and forecast for the specified city.  
+2.View Weather Details: The main screen shows the current weather conditions including temperature, humidity, wind speed, and a brief description. Use the navigation to switch between different forecast days.  
+
+## contributing
 To run this Weather application locally, follow these steps::
 
 1.Fork the repository  
