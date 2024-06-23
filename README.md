@@ -18,12 +18,12 @@ The Weather App is a simple and intuitive application that allows users to get r
 ## Installation
 To run this Weather application locally, follow these steps::
 
-1.Fork the repository
-2.Create a new branch (`git checkout -b feature/your-feature-name`)
-3.Make your changes
-4.Commit your changes (`git commit -m 'Add some feature'`)
-5.Push to the branch (`git push origin feature/your-feature-name`)
-6.Open a pull request
+1.Fork the repository  
+2.Create a new branch (`git checkout -b feature/your-feature-name`)  
+3.Make your changes  
+4.Commit your changes (`git commit -m 'Add some feature'`)  
+5.Push to the branch (`git push origin feature/your-feature-name`)  
+6.Open a pull request  
 
 
    
