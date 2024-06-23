@@ -1,4 +1,16 @@
-### Weather
+## Weather
+Welcome to my Weather Application ! This project showcases temp, windspeed,Humidity and Cloud as a web developer.
+
+- image1:
+<img width="1409" alt="Screenshot 2024-06-22 at 10 06 03 PM" src="https://github.com/hemant80025/WeatherApp/assets/143216259/0d03f544-59a5-44a0-9f5a-66e9f58b3722">
+-image2:
+<img width="1406" alt="Screenshot 2024-06-22 at 10 06 45 PM" src="https://github.com/hemant80025/WeatherApp/assets/143216259/27595daa-9f26-460b-bbb7-857ce80c5bfd">
+image3:
+<img width="1405" alt="Screenshot 2024-06-22 at 10 07 02 PM" src="https://github.com/hemant80025/WeatherApp/assets/143216259/7a65edb3-d3b4-436a-aa4a-c6d08ea63b40">
+image4:
+<img width="1411" alt="Screenshot 2024-06-22 at 10 07 26 PM" src="https://github.com/hemant80025/WeatherApp/assets/143216259/87528b13-56f9-422d-9ffc-13a8d2b78815">
+
+
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -33,8 +45,8 @@ To install and run the Weather App locally, follow these steps:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/weather-app.git
-2.Navigate to the project directory: 
-`cd weather-app`
+2.Navigate to the project directory:   
+   `cd weather-app`  
 3.Open `index.html` in your preferred web browser.
 
 ## Usage
