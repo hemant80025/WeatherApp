@@ -19,7 +19,15 @@ To install and run the Weather App locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/your-username/weather-app.git  
+   cd weather-app
+   npm install
+   REACT_APP_WEATHER_API_KEY=your_api_key_here
+   npm start
+
+
+
+
 
 
 ## Usage
