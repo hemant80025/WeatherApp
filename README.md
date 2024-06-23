@@ -74,7 +74,7 @@ For any questions or feedback, please reach out to:
 
 # Thank you for using the Weather App! We hope you find it useful and enjoyable.
 
-This `README.md` includes sections for Introduction, Features, Installation, Usage, Configuration, Technologies Used, Contributing, and Contact. It is tailored for a project created using HTML, CSS, and JavaScript.
+
 
 
 
